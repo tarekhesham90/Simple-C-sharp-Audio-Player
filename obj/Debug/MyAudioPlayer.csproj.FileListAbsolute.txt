@@ -1,0 +1,26 @@
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.exe
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.pdb
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.Form1.resources
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.Properties.Resources.resources
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.GenerateResource.Cache
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.exe
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.pdb
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\tarek\Documents\Visual Studio 2008\Projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.ResolveComReference.cache
+D:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\Interop.WMPLib.dll
+D:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.ResolveComReference.cache
+D:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.exe
+D:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.pdb
+D:\projects\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.exe
+D:\projects\MyAudioPlayer\MyAudioPlayer\bin\Debug\MyAudioPlayer.pdb
+D:\projects\MyAudioPlayer\MyAudioPlayer\bin\Debug\Interop.WMPLib.dll
+D:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.Form1.resources
+D:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.Properties.Resources.resources
+D:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.GenerateResource.Cache
+H:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\Interop.WMPLib.dll
+H:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.csproj.ResolveComReference.cache
+H:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.exe
+H:\projects\MyAudioPlayer\MyAudioPlayer\obj\Debug\MyAudioPlayer.pdb
